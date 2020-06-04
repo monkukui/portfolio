@@ -1,8 +1,3 @@
----
-layout: default
-title: internship
----
-
 ### Internship
 - エムスリー株式会社：ソフトウェアエンジニアインターンシップ
     - 期間：2019 夏，2 週間

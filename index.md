@@ -1,9 +1,3 @@
----
-layout:default
-title:top
----
-
-
 ## Acount
 
 ### Competitive Programming
