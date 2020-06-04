@@ -1,3 +1,9 @@
+---
+layout:default
+title:トップページ
+---
+
+
 ## Acount
 
 ### Competitive Programming
