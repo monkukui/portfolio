@@ -1,4 +1,9 @@
-## Acount
+---
+layout: default
+title: top
+---
+
+# Account
 
 ### Competitive Programming
 - AtCoder：[monkukui](https://atcoder.jp/users/monkukui/)
@@ -9,11 +14,11 @@
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
 
-## Organization
+# Organization
 - [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)（2015〜2020）
 - [HUPC 北海道大学競技プログラミング合宿]（TODO 追加）
 
-## Product
+# Product
 ### Owner
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)（2019）
     - 競技プログラミング専用のグラフ理論可視化サイト
@@ -33,7 +38,7 @@
     - 競技プログラミングライブラリのためのジャッジ
     - [Tree Diameter](https://judge.yosupo.jp/problem/tree_diameter)を追加
 
-### Achievement
+# Achievement
 - [ACM-ICPC 2017 国内予選](https://icpc.iisf.or.jp/2017-tsukuba/domestic/)
     - 順位：204/358
 - [ACM-ICPC 2018 国内予選](https://icpc.iisf.or.jp/2018-yokohama/domestic/)
@@ -47,7 +52,7 @@
 - [第一回日本最強プログラマー学生選手権決勝](https://atcoder.jp/contests/jsc2019-final)
     - 順位：150/185
 
-### Internship
+# Internship
 - エムスリー株式会社：ソフトウェアエンジニアインターンシップ
     - 期間：2019 夏，2 週間
     - 使用技術：Vue，TypeScript，Kotlin，SpringBoot
@@ -65,7 +70,7 @@
     - 使用技術：React, TypeScript, GraphQL, JEST
     - 特筆事項：長期のインターンシップ．企業向けのページをがっつり開発．最終日に自分のコードが deploy された．
 
-### Slides
+# Slides
 - hoge
 - huga
 - piyo
