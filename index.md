@@ -25,11 +25,11 @@ title: top
 ## [Organization](organization/)
 - HCPC（北海道大学競技プログラミングサークル）や，日立北大ラボでの取り組みについて
 
-## [Conpetitive Programming](/conpetitive_programming)
+## [Conpetitive Programming](conpetitive_programming/)
 - 競技プログラミングに関する実績や，アルゴリズムのライブラリなど
 
-## [Research](/research)
+## [Research](research/)
 - 離散アルゴリズムや機械学習の研究成果について
 
-## [Web Debelopment](product/)
+## [Web Development](web_development/)
 - 個人やチームによる WEB 開発経験，インターンシップ経験など
