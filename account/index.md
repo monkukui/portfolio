@@ -3,7 +3,7 @@ layout: default
 title:account
 ---
 
-# [Account](account/account.html)
+# [Account](/)
 
 ### Competitive Programming
 - AtCoder：[monkukui](https://atcoder.jp/users/monkukui/)
