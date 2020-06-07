@@ -3,7 +3,7 @@ layout: default
 title: top
 ---
 
-# [Account](account/account.html)
+# [Account](account/)
 
 ### Competitive Programming
 - AtCoder：[monkukui](https://atcoder.jp/users/monkukui/)
@@ -13,10 +13,12 @@ title: top
 - Twitter：[monkukui](https://twitter.com/monkukui2)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
-
-# Organization
+# [Organization](organization/)
 - [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)（2015〜2020）
-- [HUPC 北海道大学競技プログラミング合宿]（TODO 追加）
+    - ICPC への出場へ向けたコーディング技術の訓練
+    - アルゴリズムとデータ構造の勉強会
+    - プログラミングコンテストの主催および運営
+    - コンテスト主催のためのチーム開発
 
 # Product
 ### Owner
