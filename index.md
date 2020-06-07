@@ -8,8 +8,8 @@ title: top
 ### Basic Infomation
 - 名前：大泉翼
 - 所属：[北海道大学大学院情報科学院](https://www.ist.hokudai.ac.jp/)
-- 学年：M1
 - 研究室：[情報知識ネットワーク研究室](http://www-ikn.ist.hokudai.ac.jp/)
+- 学年：M1
 - mail：monkukui1953@gmail.com
 - Twitter：[monkukui](https://twitter.com/monkukui2)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
@@ -20,10 +20,13 @@ title: top
 
 # More
 
-以下のリンクをクリックすると，より詳しい情報をご覧いただけます．
+以下のリンクをクリックすると，より詳しい情報をご覧いただけます．（一部重複あり）
 
-## [Account](account/)
 ## [Organization](organization/)
-## [Product](product/)
-## [Achievement](achievement/)
-## [Internship](internship/)
+- HCPC（北海道大学競技プログラミングサークル）や，日立北大ラボでの取り組みについて
+## [Conpetitive Programming](/conpetitive_programming)
+- 競技プログラミングに関する実績や，アルゴリズムのライブラリなど
+## [Research](/research)
+- 離散アルゴリズムや機械学習の研究成果について
+## [Web Debelopment](product/)
+- 個人やチームによる WEB 開発経験，インターンシップ経験など
