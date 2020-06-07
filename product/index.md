@@ -3,7 +3,7 @@ layout: default
 title: product
 ---
 
-# [Product](/)
+# Product
 ### Owner
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)（2019）
     - 競技プログラミング専用のグラフ理論可視化サイト
