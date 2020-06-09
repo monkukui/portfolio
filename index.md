@@ -11,7 +11,8 @@ title: top
 - 研究室：[情報知識ネットワーク研究室](http://www-ikn.ist.hokudai.ac.jp/)
 - 学年：M1
 - mail：monkukui1953@gmail.com
-- Twitter：[monkukui](https://twitter.com/monkukui2)
+- GitHub：[monkukui](https://github.com/monkukui/)
+- Twitter：[monkukui](https://twitter.com/monkukui2/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
 アルゴリズムと WEB 開発に興味があります．

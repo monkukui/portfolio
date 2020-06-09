@@ -4,9 +4,10 @@ title: conpetitive programming
 ---
 
 # Account
-- AtCoder
-- Codeforces
-- Paiza
+- AtCoder：青（[monkukui](https://atcoder.jp/users/monkukui)）
+- Codeforces：青（[monkukui0283](https://codeforces.com/profile/monkukui0283)）
+- PAST：エキスパート
+- Paiza：S ランク
 
 # Achievement
 - [ACM-ICPC 2017 国内予選](https://icpc.iisf.or.jp/2017-tsukuba/domestic/)
@@ -23,4 +24,16 @@ title: conpetitive programming
     - 順位：150/185
 
 # Library
-- 競技プログラミングの C++ アルゴリズムライブラリ
+- 競技プログラミングの C++ アルゴリズムライブラリは[こちら](https://github.com/monkukui/Library)
+
+# [解いた問題数](https://rating-history.herokuapp.com/index.html?handle_topcoder=&handle_codeforces=monkukui0283&handle_atcoder=monkukui&handle_aoj=monkukui&handle_yukicoder=monkukui&handle_librarychecker=monkukui&select_handle=TAB)（2020/06/09 現在）
+
+---
+|Codeforces|132|
+|AtCoder|1308|
+|AOJ|408|
+|yukicoder|0|
+|library-checker|13|
+|Sum|1861|
+---
+
