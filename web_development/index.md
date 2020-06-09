@@ -7,13 +7,18 @@ title: product
 ### Owner
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)（2019）
     - 競技プログラミング専用のグラフ理論可視化サイト
+    - 使用技術：Vue，vis.js
 - [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)（2020）
     - アルゴリズム「Binary Search」の可視化サイト
+    - 使用技術：Vue
     - LT 会で使用
 - [procon-qa](https://procon-qa.herokuapp.com/#/)（2020）
     - 競技プログラミング専用の Q&A サイト
     - ユーザ登録者数 300 名突破
+    - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
+
 - 北大学部 3 年の授業出席システムを Slack api で開発（2020）
+    - 使用技術：GAS，Slack api など
 
 ### Collaborator
 - [Logpose](https://logpose-13labo.firebaseapp.com/)
