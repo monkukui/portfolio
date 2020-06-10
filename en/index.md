@@ -17,7 +17,7 @@ title: top
 - Blog：[monkukui](https://monkukui.hatenablog.com/)
 
 Interested in Algorithms and Web develpment.
-Organize HCPC(Hokkaido Compettive Programming Circle) and Practice everyday for ICPC
+Organize HCPC(Hokkaido Compettive Programming Circle) and practice everyday
 
 # More
 
@@ -27,10 +27,10 @@ If you want to know more about me, please click the following link.
 - About HCPC and Hitachi Hokudai Labo
 
 ## [Conpetitive Programming](conpetitive_programming/)
-- Achivement in Compettive Programming and Algorithm Library
+- Achivement in Compettive Programming and Algorithm C++ Library
 
 ## [Research](research/)
-- about research in Hokkaido University
+- About research in Hokkaido University
 
 ## [Web Development](web_development/)
-- Experience for web development in team and for Internship
+- Experience for web development in team and for internship

@@ -3,7 +3,7 @@ layout: default
 title: top
 ---
 
-[english version](en/)
+[English Version](en/)
 
 # About
 
@@ -19,7 +19,6 @@ title: top
 
 アルゴリズムと WEB 開発に興味があります．
 北海道大学競技プログラミングサークル部長を務めており，ICPC 出場に向けて日々精進しています．
-
 
 # More
 
