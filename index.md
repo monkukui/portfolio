@@ -3,6 +3,8 @@ layout: default
 title: top
 ---
 
+[english version](en/)
+
 # About
 
 ### Basic Infomation
