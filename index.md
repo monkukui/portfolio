@@ -3,8 +3,6 @@ layout: default
 title: top
 ---
 
-[English Version](en/)
-
 # About
 
 ### Basic Infomation
@@ -19,10 +17,11 @@ title: top
 
 アルゴリズムと WEB 開発に興味があります．
 北海道大学競技プログラミングサークル部長を務めており，ICPC 出場に向けて日々精進しています．
+日立北大ラボで，アルゴリズムの研究開発や[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています．
 
 # More
 
-以下のリンクをクリックすると，より詳しい情報をご覧いただけます．（一部重複あり）
+以下のリンクをクリックすると，より詳しい情報をご覧いただけます．
 
 ## [Organization](organization/)
 - HCPC（北海道大学競技プログラミングサークル）や，日立北大ラボでの取り組みについて
