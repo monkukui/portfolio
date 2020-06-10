@@ -16,7 +16,9 @@ title: top
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
 アルゴリズムと WEB 開発に興味があります．
-北海道大学競技プログラミングサークル部長を務めており，ICPC 出場に向けて日々精進しています．
+
+[HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)の部長を務めており，ICPC 出場に向けて日々精進しています．
+
 日立北大ラボで，アルゴリズムの研究開発や[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています．
 
 # More
