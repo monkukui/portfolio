@@ -21,6 +21,8 @@ title: top
 
 日立北大ラボで，アルゴリズムの研究開発や[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています．
 
+趣味やインターンシップで WEB 開発に取り組んでいます．最も力を入れて開発しているプロダクトは，[procon-qa](https://procon-qa.herokuapp.com/)です．（[GitHub はこちら](https://github.com/monkukui/procon-qa)）
+
 # More
 
 以下のリンクをクリックすると，より詳しい情報をご覧いただけます．
