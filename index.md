@@ -23,7 +23,7 @@ title: top
 日立北大ラボで，アルゴリズムの研究開発や、[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています。
 
 WEB 開発は、個人開発とチーム開発の両方の経験があります。
-個人では、競プロ用の Q&A サイトである [procon-qa](https://procon-qa.herokuapp.com/) や、グラフ理論可視化サイト [GRAPH GRAPH](https://hello-world-494ec.firebaseapp.com) を開発しています。
+個人では、競プロ用の Q&A サイトである [procon-qa](https://procon-qa.herokuapp.com/) や、グラフ理論可視化サイト [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com) を開発しています。
 チームでは、北海道大学の時間割生成アプリを開発しており、開発チームのリーダーを務めています。
 
 OSS 活動に取り組んでいます。
