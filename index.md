@@ -15,26 +15,36 @@ title: top
 - Twitter：[monkukui](https://twitter.com/monkukui2/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
-アルゴリズムと WEB 開発に興味があります．
+#### アルゴリズムと WEB 開発に興味があります。
 
-[HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)の部長を務めており，ICPC 出場に向けて日々精進しています．
+[HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)の部長を務めています。
+[ICPC](https://icpc.iisf.or.jp)出場に向けて、プログラミング技術の訓練や、アルゴリズムの勉強会などを行なっています。
+また、大学対抗プログラミングコンテストを年に 3 回主催しており、参加者は毎年 100 名を超えます。
 
-日立北大ラボで，アルゴリズムの研究開発や[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています．
+日立北大ラボで，アルゴリズムの研究開発や[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています。
 
-趣味やインターンシップで WEB 開発に取り組んでいます．最も力を入れて開発しているプロダクトは，[procon-qa](https://procon-qa.herokuapp.com/)です．（[GitHub はこちら](https://github.com/monkukui/procon-qa)）
+大学 4 年次より WEB 開発に取り組んでいます。
+個人では、競技プログラミング専用の Q&A サイトである [procon-qa](https://procon-qa.herokuapp.com/) や、グラフ理論可視化サイト [GRAPH GRAPH](https://hello-world-494ec.firebaseapp.com) を開発しています。
+
+[AtCoder](https://atcoder.jp)が提供している、競技プログラミング用のアルゴリズムライブラリ（C++）を Golang に移植する OSS を立ち上げました。
+(ac-library-go)[https://github.com/monkukui/ac-library-go]
+それに伴い、複数ファイルにまたがる Go プログラムの依存関係を把握して、単一ファイルにまとめる静的解析ツール [gpcg](https://github.com/monkukui/gpcg) や、グラフ理論の可視化をコマンドラインから行う CLI ツール [ggg](https://github.com/monkukui/ggg) を開発しています。
 
 # More
 
-以下のリンクをクリックすると，より詳しい情報をご覧いただけます．
+以下のリンクをクリックすると。より詳しい情報をご覧いただけます。
 
-## [Organization](organization/)
-- HCPC（北海道大学競技プログラミングサークル）や，日立北大ラボでの取り組みについて
+## [Organization](organization)
+- 私が主催している取り組みについて。HCPC（北海道大学競技プログラミングサークル）や、日立北大ラボでの取り組みなど
 
 ## [Conpetitive Programming](conpetitive_programming/)
-- 競技プログラミングに関する実績や，アルゴリズムのライブラリなど
+- 競技プログラミングに関する実績や，アルゴリズムのライブラリについて。
 
 ## [Research](research/)
-- 離散アルゴリズムや機械学習の研究成果について
+- 離散アルゴリズムや機械学習の研究成果について。
 
-## [Web Development](web_development/)
-- 個人やチームによる WEB 開発経験，インターンシップ経験など
+## [Development](web_development/)
+- 個人やチームによる開発経験について。
+
+## [Internshp](internship/)
+- ソフトウェアエンジニアインターンシップの参加実績について。
