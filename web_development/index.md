@@ -8,6 +8,8 @@ title: product
 - [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)（2019）
     - 競技プログラミング専用のグラフ理論可視化サイト
     - 使用技術：Vue，vis.js
+- [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)（2020）
+    - GRAPH × GRAPH をコマンドラインから起動するための CLI ツール
 - [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)（2020）
     - アルゴリズム「Binary Search」の可視化サイト
     - 使用技術：Vue
@@ -17,6 +19,14 @@ title: product
     - ユーザ登録者数 300 名突破
     - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
 
+- [ac-library-go](https://github.com/monkukui/ac-library-go)（2020）
+    - Go 製のアルゴリズムライブラリ
+    - [AtCoder Library](https://atcoder.jp/posts/517) の移植を目指す OSS を主催
+    - 使用技術：Go
+- [gpcg(go-procon-code-generator)](https://github.com/monkukui/gpcg)（2020）
+    - 複数ファイルを単一ファイルにまとめる、Go 製の静的解析ツール
+    - ac-library-go をコンテストで使用するために用いられる- 使用技術：Go, 静的解析
+
 - 北大学部 3 年の授業出席システムを Slack api で開発（2020）
     - 使用技術：GAS，Slack api など
 
@@ -25,35 +35,6 @@ title: product
     - 札幌就活情報共有サイト
     - トップページの一部と検索ページを担当
 - [Library Checker](https://judge.yosupo.jp/)
-    - 競技プログラミングライブラリのためのジャッジ
+    - アルゴリズムの実装の正当性をテストするための OSS
     - [Tree Diameter](https://judge.yosupo.jp/problem/tree_diameter)を追加
 
-# Internship
-- エムスリー株式会社：ソフトウェアエンジニアインターンシップ
-    - 期間：2019 夏，2 週間
-    - 使用技術：Vue，TypeScript，Kotlin，SpringBoot
-    - 特筆事項：初めてのエンジニアインターンシップ．とあるサービスのユーザ登録フォーム画面の実装．
-- LINE KYOTO：ハッカソン型インターンシップ
-    - 期間：2019 夏，5 日間
-    - 使用技術：Vue, Python, Django, LIFF（LINE Front-end Framework）
-    - 特筆事項：3 人 1 チームのハッカソン．LINE モバイルアプリ上で動く，通知機能つきの TODO アプリ開発．
-- 日本経済新聞社：ハッカソン型インターンシップ
-    - 期間 2019 夏，3 日間
-    - 使用技術：Vue, Python, Django
-    - 特筆事項：日経電子版の api を使った web アプリ開発．機械学習による，記事のレコメンデーション機能を実装．
-- ウォンテッドリー株式会社：ソフトウェアエンジニアインターンシップ
-    - 期間：2020 春，3 週間
-    - 使用技術：React, TypeScript, GraphQL, JEST
-    - 特筆事項：長期のインターンシップ．企業向けのページをがっつり開発．最終日に自分のコードが deploy された．
-- ウォンテッドリー株式会社：バックエンドインターンシップ（参加中）
-    - 期間：2020 夏，3 週間
-    - 使用技術：Ruby，Go
-    - 特筆事項：
-- 1day 全職種向け ゲームAI×プロコン型インターン（参加予定）
-    - 期間：2020 夏，1 日間
-    - 使用技術：C#, Unity
-    - 特筆事項：
-- Mercari, inc.：Online Summer Internship for Gophers 2020（参加予定）
-    - 期間：2020 夏，5 日間
-    - 使用技術：Go，静的解析
-    - 特筆事項
