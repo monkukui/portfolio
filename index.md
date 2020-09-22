@@ -27,7 +27,7 @@ title: top
 個人では、競技プログラミング専用の Q&A サイトである [procon-qa](https://procon-qa.herokuapp.com/) や、グラフ理論可視化サイト [GRAPH GRAPH](https://hello-world-494ec.firebaseapp.com) を開発しています。
 
 [AtCoder](https://atcoder.jp)が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Golang に移植する OSS を立ち上げました。
-(ac-library-go)[https://github.com/monkukui/ac-library-go]
+[ac-library-go](https://github.com/monkukui/ac-library-go)
 それに伴い、複数ファイルにまたがる Go プログラムの依存関係を把握して、単一ファイルにまとめる静的解析ツール [gpcg](https://github.com/monkukui/gpcg) や、グラフ理論の可視化をコマンドラインから行う CLI ツール [ggg](https://github.com/monkukui/ggg) を開発しています。
 
 # More
