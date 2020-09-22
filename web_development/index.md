@@ -11,7 +11,8 @@ title: product
     - 使用技術：Go
 - [gpcg(go-procon-code-generator)](https://github.com/monkukui/gpcg)（2020）
     - 複数ファイルを単一ファイルにまとめる、Go 製の静的解析ツール
-    - ac-library-go をコンテストで使用するために用いられる- 使用技術：Go, 静的解析
+    - ac-library-go をコンテストで使用するために用いられる
+    - 使用技術：Go, 静的解析
 - [procon-qa](https://procon-qa.herokuapp.com/#/)（2020）
     - 競技プログラミング専用の Q&A サイト
     - ユーザ登録者数 300 名突破
