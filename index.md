@@ -27,7 +27,7 @@ WEB 開発は、個人開発とチーム開発の両方の経験があります�
 チームでは、北海道大学の時間割生成アプリを開発しており、開発チームのリーダーを務めています。
 
 OSS 活動に取り組んでいます。
-[AtCoder](https://atcoder.jp)が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Golang に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
+[AtCoder](https://atcoder.jp) が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Go に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
 
 # More
 

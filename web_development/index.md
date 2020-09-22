@@ -3,7 +3,7 @@ layout: default
 title: product
 ---
 
-# Product
+# Development
 ### Owner
 - [ac-library-go](https://github.com/monkukui/ac-library-go)（2020）
     - Go 製のアルゴリズムライブラリ
