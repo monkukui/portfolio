@@ -4,10 +4,9 @@ title: conpetitive programming
 ---
 
 # Conpetitive Programming
-競技プログラミングに関する活動実績を紹介します。
 
 競技プログラミングは、大学 2 年の春から現在（2020/09/24 更新）まで続けています。
-現在は、[北海道大学競技プログラミングサークル HCPC](https://hcpc-hokudai.github.io/)の部長を務めています。（詳しくは、[Organization](organization/) をご覧ください。）
+現在は、[北海道大学競技プログラミングサークル HCPC](https://hcpc-hokudai.github.io/)の部長を務めています（詳しくは、[Organization](organization/) をご覧ください）。
 競技プログラミングの実績や、関連するエンジニアリング活動について紹介します。
 
 ## Account
