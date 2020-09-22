@@ -45,9 +45,8 @@ title: conpetitive programming
 
 ## 競技プログラミングに関連する開発
 
-### Library
+### [Algorithm Library](https://github.com/monkukui/Library)
 競技プログラミングで普段使用する、アルゴリズムやデータ構造の実装です。
-[GitHub のリンク](https://github.com/monkukui/Library)
 
 ### [Library Checker](https://judge.yosupo.jp/)
 Library Checker とは、アルゴリズムを実装したプログラムの正当性を、ブラウザ上でテストするための OSS です。

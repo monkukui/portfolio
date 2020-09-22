@@ -6,7 +6,7 @@ title: top
 # About
 
 ### Basic Infomation
-- 名前：大泉翼
+- 名前：大泉 翼（おおいずみ つばさ）
 - 所属：[北海道大学大学院情報科学院](https://www.ist.hokudai.ac.jp/)
 - 研究室：[情報知識ネットワーク研究室](http://www-ikn.ist.hokudai.ac.jp/)
 - 学年：M1
