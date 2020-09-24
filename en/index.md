@@ -17,7 +17,7 @@ title: top
 - Blog：[monkukui](https://monkukui.hatenablog.com/)
 
 Interested in Algorithms and Web develpment.
-Organize HCPC(Hokkaido Compettive Programming Circle) and practice everyday
+Organize HCPC(Hokkaido Compettive Programming Circle)
 
 # More
 
