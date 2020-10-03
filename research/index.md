@@ -5,6 +5,11 @@ title: research
 
 # Research
 
+### International Conference Papers(Perr Reviewed)
+- Hiroshi Uchigaito, Tomoki Shirai, Yoichi Iwata, Normann Mertig, Yuya Sugie, Tsubasa Oizumi, Hiroshi Teramoto, Atsuyos...<br>
+Minimizing Customer Waiting Time with a New Delivery-Tour Planning Algorithm Based on Tour Division and Dynamic Route Optimization<br>
+NOLTA2020 Wednesday November 18, 2020
+
 ### Domestic Conference Papers(in Japan, Non-Peer Reviewed)
 
 - 大泉翼、有村博紀：<br>
