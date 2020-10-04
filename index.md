@@ -5,7 +5,7 @@ title: top
 
 # About
 
-### Basic Infomation
+## Basic Infomation
 - 名前：大泉 翼（おおいずみ つばさ）
 - 所属：[北海道大学大学院情報科学院](https://www.ist.hokudai.ac.jp/)
 - 研究室：[情報知識ネットワーク研究室](http://www-ikn.ist.hokudai.ac.jp/)
@@ -15,7 +15,7 @@ title: top
 - Twitter：[monkukui](https://twitter.com/monkukui2/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
-#### アルゴリズムと WEB 開発に興味があります。
+### アルゴリズムと WEB 開発に興味があります。
 
 [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/) の部長を務めています。
 [ICPC](https://icpc.iisf.or.jp) 出場に向けて、プログラミング技術の訓練や、アルゴリズムの勉強会などを行なっています。
@@ -29,7 +29,7 @@ WEB 開発は、個人開発とチーム開発の両方の経験があります�
 OSS 活動に取り組んでいます。
 [AtCoder](https://atcoder.jp) が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Go に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
 
-# More
+## More
 
 以下のリンクをクリックすると。より詳しい情報をご覧いただけます。
 
@@ -47,3 +47,6 @@ OSS 活動に取り組んでいます。
 
 ## [Internshp](internship/)
 - ソフトウェアエンジニアインターンシップの参加実績について。
+
+## [History](history/)
+- プログラミングを始めて学んだ大学 2 年次から現在までの、自己振り返りを書いています。
