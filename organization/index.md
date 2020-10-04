@@ -8,7 +8,7 @@ title: organization
 
 ## [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)（2015〜2020）
 
-<img width="233" alt="スクリーンショット 2020-10-05 0 29 00" src="https://user-images.githubusercontent.com/47474057/95019693-da7c1b80-06a1-11eb-9059-81bc1fb7749a.png">
+<img width="100" alt="スクリーンショット 2020-10-05 0 29 00" src="https://user-images.githubusercontent.com/47474057/95019693-da7c1b80-06a1-11eb-9059-81bc1fb7749a.png">
 
 
 ### サークル情報
