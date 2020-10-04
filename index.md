@@ -17,7 +17,7 @@ title: top
 
 ### アルゴリズムと WEB 開発に興味があります。
 
-[HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/) の部長を務めています。
+[HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)の部長を務めています。
 [ICPC](https://icpc.iisf.or.jp) 出場に向けて、プログラミング技術の訓練や、アルゴリズムの勉強会などを行なっています。
 
 日立北大ラボで，アルゴリズムの研究開発や、[プログラミングコンテスト](https://www.es.hokudai.ac.jp/news/2019-11-01-hitachi/)の主催などを行なっています。
