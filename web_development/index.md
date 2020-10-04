@@ -26,6 +26,8 @@ go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動
  - 使用技術：Vue, vis.js
 
 ### [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)
+![ggg](https://user-images.githubusercontent.com/47474057/95019098-83c11280-069e-11eb-9754-1341b13ede1b.gif)
+
 GRAPH × GRAPH をコマンドラインから起動するための CLI ツールです。
 
  - 使用技術：Go, cobra
