@@ -7,6 +7,29 @@ title: product
 公開している開発物を紹介します。
 
 ## Owner
+### [procon-qa](https://procon-qa.herokuapp.com/#/)
+<img width="387" alt="スクリーンショット 2020-10-04 18 40 39" src="https://user-images.githubusercontent.com/47474057/95012165-219de880-0671-11eb-953c-e922506883a7.png">
+
+競技プログラミング専用の Q&A サイトです。
+ユーザ登録者数 300 名突破しました。
+
+一通りの CRUD 機能を持った Web アプリケーションを開発し、公開したいというモチベーションがあり、開発しました。
+
+ - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
+
+### [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
+<img width="266" alt="スクリーンショット 2020-10-04 18 41 33" src="https://user-images.githubusercontent.com/47474057/95012181-4003e400-0671-11eb-8932-18a1535a6deb.png">
+
+グラフ理論可視化サイトです。
+go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動できます。
+
+ - 使用技術：Vue, vis.js
+
+### [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)
+GRAPH × GRAPH をコマンドラインから起動するための CLI ツールです。
+
+ - 使用技術：Go, cobra
+ 
 ### [ac-library-go](https://github.com/monkukui/ac-library-go)
 [AtCoder Library](https://atcoder.jp/posts/517) を Golang に移植する OSS 活動を主催しています。
 AtCoder Library は、[AtCoder](https://atcoder.jp/) が C++ で実装したアルゴリズムのライブラリであり、AtCoder 上のコンテストで使用できます。
@@ -23,28 +46,8 @@ AtCoder Library は、[AtCoder](https://atcoder.jp/) が C++ で実装したア�
 
  - 使用技術：Go, 静的解析
 
-### [procon-qa](https://procon-qa.herokuapp.com/#/)
-<img width="387" alt="スクリーンショット 2020-10-04 18 40 39" src="https://user-images.githubusercontent.com/47474057/95012165-219de880-0671-11eb-953c-e922506883a7.png">
 
-競技プログラミング専用の Q&A サイトです。
-ユーザ登録者数 300 名突破しました。
-
-一通りの CRUD 機能を持った Web アプリケーションを開発し、公開したいというモチベーションがあり、開発しました。
-
- - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
-
-### [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
-<img width="266" alt="スクリーンショット 2020-10-04 18 41 33" src="https://user-images.githubusercontent.com/47474057/95012181-4003e400-0671-11eb-8932-18a1535a6deb.png">
-
-グラフ理論可視化サイトです。
-go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動できます。
-    - 使用技術：Vue，vis.js
-
-### [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)（2020）
-GRAPH × GRAPH をコマンドラインから起動するための CLI ツールです。
-    - 使用技術：Go, cobra
-
-### [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)（2020）
+### [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)
 「二分探索」を理解するためのアプリケーションです。
 「北海道大学 IT サークル」主催の LT 会で登壇した時に使用しました。
 
