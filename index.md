@@ -44,7 +44,7 @@ OSS 活動に取り組んでいます。
 ## [Conpetitive Programming](conpetitive_programming/)
 - 競技プログラミングに関する実績や、アルゴリズムのライブラリについて。
 
-## [Internshp](internship/)
+## [Internship](internship/)
 - ソフトウェアエンジニアインターンシップの参加実績について。
 
 ## [Development](web_development/)
