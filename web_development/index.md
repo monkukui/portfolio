@@ -15,6 +15,8 @@ title: product
 
 一通りの CRUD 機能を持った Web アプリケーションを開発し、公開したいというモチベーションがあり、開発しました。
 
+誰でも気軽に質問ができるプラットフォームを作り出し、価値を生み出したいです。
+
  - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
 
 ### [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
@@ -22,6 +24,8 @@ title: product
 
 グラフ理論可視化サイトです。
 go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動できます。
+
+競技プログラミングにおいて、サンプルテストケースの確認に役に立ちます。
 
  - 使用技術：Vue, vis.js
 
