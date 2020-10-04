@@ -4,36 +4,59 @@ title: product
 ---
 
 # Development
-### Owner
-- [ac-library-go](https://github.com/monkukui/ac-library-go)（2020）
-    - Go 製のアルゴリズムライブラリ
-    - [AtCoder Library](https://atcoder.jp/posts/517) の移植を目指す OSS を主催
-    - 使用技術：Go
-- [gpcg(go-procon-code-generator)](https://github.com/monkukui/gpcg)（2020）
-    - 複数ファイルを単一ファイルにまとめる、Go 製の静的解析ツール
-    - ac-library-go をコンテストで使用するために用いられる
+公開している開発物を紹介します。
+
+## Owner
+### [ac-library-go](https://github.com/monkukui/ac-library-go)
+[AtCoder Library](https://atcoder.jp/posts/517) を Golang に移植する OSS 活動を主催しています。
+AtCoder Library は、[AtCoder](https://atcoder.jp/) が C++ で実装したアルゴリズムのライブラリであり、AtCoder 上のコンテストで使用できます。
+他言語への移植を促す[ツイート](https://twitter.com/atcoder/status/1302977048017694720?s=20) が AtCoder によって投稿されたのをきっかけとして、[ac-library-go](https://github.com/monkukui/ac-library-go) を立ち上げました。
+様々なアルゴリズムやデータ構造を Go によって実装しています。
+    - 使用技術：Go, Algorithm
+
+### [gpcg(go-procon-code-generator)](https://github.com/monkukui/gpcg)
+複数ファイルを単一ファイルにまとめる Go の静的解析ツールを開発しました。
+競技プログラミングでは、単一ファイルで記述されたコードを WEB 上で提出しなければいけないため、このツールが役に立ちます。
+将来的には、ac-library-go でも使えるようにします。
+[ブログ](https://monkukui.hatenablog.com/entry/2020/09/07/183114)
     - 使用技術：Go, 静的解析
-- [procon-qa](https://procon-qa.herokuapp.com/#/)（2020）
-    - 競技プログラミング専用の Q&A サイト
-    - ユーザ登録者数 300 名突破
+
+### [procon-qa](https://procon-qa.herokuapp.com/#/)
+競技プログラミング専用の Q&A サイトです。
+ユーザ登録者数 300 名突破しました。
+
+一通りの CRUD 機能を持った Web アプリケーションを開発し、公開したいというモチベーションがあり、開発しました。
     - 使用技術：Go, echo, Vue, TypeScript, PostgreSQL, Docker
-- [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)（2019）
-    - 競技プログラミング専用のグラフ理論可視化サイト
+
+### [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/)
+グラフ理論可視化サイトです。
+go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動できます。
     - 使用技術：Vue，vis.js
-- [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)（2020）
-    - GRAPH × GRAPH をコマンドラインから起動するための CLI ツール
-- [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)（2020）
-    - アルゴリズム「Binary Search」の可視化サイト
-    - 使用技術：Vue
-    - LT 会で使用
 
-- 北大学部 3 年の授業出席システムを Slack api で開発（2020）
-    - 使用技術：GAS，Slack api など
+### [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)（2020）
+GRAPH × GRAPH をコマンドラインから起動するための CLI ツールです。
+    - 使用技術：Go, cobra
 
-### Collaborator
-- [Library Checker](https://judge.yosupo.jp/)
-    - アルゴリズムの実装の正当性をテストするための OSS
-    - [Tree Diameter](https://judge.yosupo.jp/problem/tree_diameter)を追加
-- [Logpose](https://logpose-13labo.firebaseapp.com/)
-    - 札幌就活情報共有サイト
-    - トップページの一部と検索ページを担当
+### [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)（2020）
+「二分探索」を理解するためのアプリケーションです。
+「北海道大学 IT サークル」主催の LT 会で登壇した時に使用しました。
+
+- 使用技術：Vue
+
+### その他
+- 北大学部 3 年の授業出席システム
+    - 使用技術：GAS, Slack api など
+
+- 研究室の出席管理システぷ
+    - 使用技術：Vue, Rust など
+
+## Collaborator
+### [Library Checker](https://judge.yosupo.jp/)
+Library Checker とは、アルゴリズムを実装したプログラムの正当性を、ブラウザ上でテストするための OSS です。
+木の直径を求める問題 [Tree Diameter](https://judge.yosupo.jp/) を作成し、OSS に貢献しました。
+[ブログ](https://monkukui.hatenablog.com/entry/2020/05/21/133032)
+- 使用技術：C++
+
+### [Logpose](https://logpose-13labo.firebaseapp.com/)
+札幌就活情報共有サイトです。
+トップページの一部と検索ページを担当しました。

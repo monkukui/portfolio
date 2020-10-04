@@ -42,35 +42,3 @@ title: conpetitive programming
 |yukicoder|0|
 |library-checker|13|
 |Sum|2026|
-
-## 競技プログラミングに関連する開発
-
-### [Algorithm Library](https://github.com/monkukui/Library)
-競技プログラミングで普段使用する、アルゴリズムやデータ構造の実装です。
-
-### [Library Checker](https://judge.yosupo.jp/)
-Library Checker とは、アルゴリズムを実装したプログラムの正当性を、ブラウザ上でテストするための OSS です。
-木の直径を求める問題 [Tree Diameter](https://judge.yosupo.jp/) を作成し、OSS に貢献しました。
-[ブログ](https://monkukui.hatenablog.com/entry/2020/05/21/133032)
-
-### [ac-library-go](https://github.com/monkukui/ac-library-go)
-[AtCoder Library](https://atcoder.jp/posts/517) を Golang に移植する OSS 活動を主催しています。
-AtCoder Library は、[AtCoder](https://atcoder.jp/) が C++ で実装したアルゴリズムのライブラリであり、AtCoder 上のコンテストで使用できます。
-他言語への移植を促す[ツイート](https://twitter.com/atcoder/status/1302977048017694720?s=20) が AtCoder によって投稿されたのをきっかけとして、[ac-library-go](https://github.com/monkukui/ac-library-go) を立ち上げました。
-様々なアルゴリズムやデータ構造を Go によって実装しています。
-
-### [gpcg(go-procon-code-generator)](https://github.com/monkukui/gpcg)
-複数ファイルを単一ファイルにまとめる Go の静的解析ツールを開発しました。
-競技プログラミングでは、単一ファイルで記述されたコードを WEB 上で提出しなければいけないため、このツールが役に立ちます。
-将来的には、ac-library-go でも使えるようにします。
-[ブログ](https://monkukui.hatenablog.com/entry/2020/09/07/183114)
-
-### [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com/index.html)
-グラフ理論の可視化サイトです。
-go 製の CLI ツール[ggg](https://github.com/monkukui/ggg) を使って起動できます。
-
-### [procon-qa](https://procon-qa.herokuapp.com/)
-競技プログラミング専用の Q&A サイトです。
-
-### [ggg(go GRAPH × GRAPH)](https://github.com/monkukui/ggg)
-GRAPH × GRAPH を起動するための CLI ツールです。
