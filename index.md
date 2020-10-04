@@ -44,11 +44,11 @@ OSS 活動に取り組んでいます。
 ## [Conpetitive Programming](conpetitive_programming/)
 - 競技プログラミングに関する実績や、アルゴリズムのライブラリについて。
 
-## [Research](research/)
-- 離散アルゴリズムや機械学習の研究成果について。
+## [Internshp](internship/)
+- ソフトウェアエンジニアインターンシップの参加実績について。
 
 ## [Development](web_development/)
 - 個人やチームによる開発経験について。
 
-## [Internshp](internship/)
-- ソフトウェアエンジニアインターンシップの参加実績について。
+## [Research](research/)
+- 離散アルゴリズムや機械学習の研究成果について。
