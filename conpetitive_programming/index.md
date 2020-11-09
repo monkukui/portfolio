@@ -26,6 +26,9 @@ title: conpetitive programming
     - 順位：60/388
 - [ACM-ICPC 2019 国内予選](https://icpc.iisf.or.jp/2019-yokohama/2019kokunaiyosen)
     - 順位：73/458
+- [ACM-ICPC 2020 国内予選](https://icpc.iisf.or.jp/2020-yokohama/domestic/)
+    - 順位：18/294
+    - <strong>アジア地区予選進出</strong>
 - [CODE THANKS FESTIVAL 2018 本戦](https://www.recruit-jinji.jp/recruitment/code_fes)
     - 順位：49/98
 - [DISCO presents ディスカバリーチャンネル コードコンテスト2019 本戦](https://www.discoverychannel.jp/campaign/ddcc2019/)
