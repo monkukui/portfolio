@@ -38,15 +38,15 @@ title: conpetitive programming
 - [AtCoder Beginer Contest 157](https://atcoder.jp/contests/abc157)
     - 順位：13/6543
 
-## [解いた問題数](https://rating-history.herokuapp.com/index.html?handle_topcoder=&handle_codeforces=monkukui0283&handle_atcoder=monkukui&handle_aoj=monkukui&handle_yukicoder=monkukui&handle_librarychecker=monkukui&select_handle=TAB)（2020/09/24 現在）
+## [解いた問題数](https://rating-history.herokuapp.com/index.html?handle_topcoder=&handle_codeforces=monkukui0283&handle_atcoder=monkukui&handle_aoj=monkukui&handle_yukicoder=monkukui&handle_librarychecker=monkukui&select_handle=TAB)（2020/10/4 現在）
 
 |サイト|解いた問題数|
 |Codeforces|163|
-|AtCoder|1437|
+|AtCoder|1444|
 |AOJ|409|
-|yukicoder|0|
-|library-checker|13|
-|Sum|2026|
+|yukicoder|27|
+|library-checker|17|
+|Sum|2060|
 
 
 ## 競技プログラミングを通じて得られた能力

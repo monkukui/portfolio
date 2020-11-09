@@ -39,12 +39,12 @@ OSS 活動に取り組んでいます。
 以下のリンクをクリックすると。より詳しい情報をご覧いただけます。
 
 ## [Organization](organization)
-- 私が主催している取り組みについて。HCPC（北海道大学競技プログラミングサークル）や、日立北大ラボでの取り組みなど
+- 私が主催している取り組みについて。HCPC（北海道大学競技プログラミングサークル）や、日立北大ラボでの取り組みなど。
 
 ## [Conpetitive Programming](conpetitive_programming/)
 - 競技プログラミングに関する実績や、アルゴリズムのライブラリについて。
 
-## [Internshp](internship/)
+## [Internship](internship/)
 - ソフトウェアエンジニアインターンシップの参加実績について。
 
 ## [Development](web_development/)
