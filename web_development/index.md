@@ -88,6 +88,8 @@ Library Checker とは、アルゴリズムを実装したプログラムの正�
 [ブログ](https://monkukui.hatenablog.com/entry/2020/05/21/133032)
 
 - 使用技術：C++
+### [A Tour of Go](https://go-tour-jp.appspot.com/concurrency/7)
+Golang の公式チュートリアルの一部を翻訳しました。
 
 ### [Logpose](https://logpose-13labo.firebaseapp.com/)
 札幌就活情報共有サイトです。

@@ -24,10 +24,12 @@ title: top
 
 WEB 開発は、個人開発とチーム開発の両方の経験があります。
 個人では、競プロ用の Q&A サイトである [procon-qa](https://procon-qa.herokuapp.com/) や、グラフ理論可視化サイト [GRAPH × GRAPH](https://hello-world-494ec.firebaseapp.com) を開発しています。
-チームでは、北海道大学の時間割生成アプリを開発しており、開発チームのリーダーを務めています。
+また、数多くの就業型インターンシップに参加し、エンジニアとしてチームでプロダクトを開発する経験を積みました。
 
 OSS 活動に取り組んでいます。
 [AtCoder](https://atcoder.jp) が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Go に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
+また、アルゴリズムの正当性をテストする OSS [Library Checker](https://judge.yosupo.jp/) に contribute したり、
+Go の公式チュートリアルの一部を翻訳したりしました。[A Tour of Go](https://go-tour-jp.appspot.com/concurrency/7])
 
 ### Vision
 
