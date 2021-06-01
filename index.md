@@ -16,6 +16,7 @@ title: top
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
 ### アルゴリズムと WEB 開発に興味があります。
+2022 年に北海道大学大学院情報科学院を卒業し、株式会社メルカリにバックエンドエンジニアとして就職する予定です。
 
 [HCPC 北海道大学競技プログラミングサークル](https://hcpc-hokudai.github.io/)の部長を務めています。
 [ICPC](https://icpc.iisf.or.jp) 出場に向けて、プログラミング技術の訓練や、アルゴリズムの勉強会などを行なっています。
@@ -30,8 +31,6 @@ OSS 活動に取り組んでいます。
 [AtCoder](https://atcoder.jp) が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Go に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
 また、アルゴリズムの正当性をテストする OSS [Library Checker](https://judge.yosupo.jp/) に contribute したり、
 Go の公式チュートリアルの一部を翻訳したりしました。[A Tour of Go](https://go-tour-jp.appspot.com/concurrency/7])
-
-2022 年に北海道大学大学院情報科学院を卒業し、株式会社メルカリにバックエンドエンジニアとして就職する予定です。
 
 ### Vision
 
