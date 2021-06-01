@@ -82,6 +82,7 @@ Go で記述された複数ファイルにまたがるコードを、単一の�
 
 ## Mercari, inc.：Software Engineer, Backend [Internship]
 - 期間：2020/12/01 〜 2020/3/01, 3 ヶ月間
-- 使用技術：
+- 使用技術：Go, Spanner, GraphQL, React, TypeScript, Microservice Architecture
 
-参加予定
+3 ヶ月の超大型インターンシップ（フルタイム）。
+社内 CSTool を開発するチームに配属され、スクラム開発でバックエンドからフロントエンドまで幅広く業務を経験しました。

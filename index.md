@@ -9,7 +9,7 @@ title: top
 - 名前：大泉 翼（おおいずみ つばさ）
 - 所属：[北海道大学大学院情報科学院](https://www.ist.hokudai.ac.jp/)
 - 研究室：[情報知識ネットワーク研究室](http://www-ikn.ist.hokudai.ac.jp/)
-- 学年：M1
+- 学年：M2
 - mail：monkukui1953@gmail.com
 - GitHub：[monkukui](https://github.com/monkukui/)
 - Twitter：[monkukui](https://twitter.com/monkukui2/)
@@ -30,6 +30,8 @@ OSS 活動に取り組んでいます。
 [AtCoder](https://atcoder.jp) が提供している、競技プログラミング用のアルゴリズムライブラリ [ACL](https://atcoder.jp/posts/517) を Go に移植する OSS を主催しています（[ac-library-go](https://github.com/monkukui/ac-library-go)）。
 また、アルゴリズムの正当性をテストする OSS [Library Checker](https://judge.yosupo.jp/) に contribute したり、
 Go の公式チュートリアルの一部を翻訳したりしました。[A Tour of Go](https://go-tour-jp.appspot.com/concurrency/7])
+
+2022 年に北海道大学大学院情報科学院を卒業し、株式会社メルカリにバックエンドエンジニアとして就職する予定です。
 
 ### Vision
 
