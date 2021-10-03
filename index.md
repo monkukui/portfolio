@@ -12,7 +12,7 @@ title: top
 - 学年：M2
 - mail：monkukui1953@gmail.com
 - GitHub：[monkukui](https://github.com/monkukui/)
-- Twitter：[monkukui](https://twitter.com/monkukui2/)
+- Twitter：[monkukui](https://twitter.com/monkukui/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
 ### アルゴリズムと WEB 開発に興味があります。
