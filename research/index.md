@@ -7,8 +7,8 @@ title: research
 
 ### International Conference Papers(Peer Reviewed)
 
-- Cartesian Tree Subsequence Matching
-  - Tsubasa Oizumi, Takeshi Kai, Takuya Mieno, Shunsuke Inenaga, Hiroki Arimura
+- <strong>Cartesian Tree Subsequence Matching</strong>
+  - <strong>Tsubasa Oizumi</strong>, Takeshi Kai, Takuya Mieno, Shunsuke Inenaga, Hiroki Arimura
   - CPM2022 Prague, Czech Republic, June 27–29, 2022
   - https://www.stringology.org/event/CPM2022
 
@@ -27,3 +27,4 @@ title: research
 
 ### Theses
 - 大泉 翼：<br>説明可能な機械学習のための拡張シャープレイ値を求める厳密指数時間アルゴリズム<br>卒業論文、北海道大学、2020 年 2 月
+- 大泉 翼：<br>Fast algorithm for Cartesian Subsequence Matching Problem<br>修士論文、北海道大学大学院、2022 年 3 月
