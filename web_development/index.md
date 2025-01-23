@@ -67,18 +67,11 @@ AtCoder Library は、[AtCoder](https://atcoder.jp/) が C++ で実装したア�
 
  - 使用技術：Go, 静的解析
 
-
-### [Visualize Binary Search](https://visualize-binary-search.firebaseapp.com/#/search-age)
-「二分探索」を理解するためのアプリケーションです。
-「北海道大学 IT サークル」主催の LT 会で登壇した時に使用しました。
-
-- 使用技術：Vue
-
 ### その他
 - 北大学部 3 年の授業出席システム
     - 使用技術：GAS, Slack api など
 
-- 研究室の出席管理システぷ
+- 研究室の出席管理システム
     - 使用技術：Vue, Rust など
 
 ## Collaborator
@@ -88,9 +81,13 @@ Library Checker とは、アルゴリズムを実装したプログラムの正�
 [ブログ](https://monkukui.hatenablog.com/entry/2020/05/21/133032)
 
 - 使用技術：C++
+
 ### [A Tour of Go](https://go-tour-jp.appspot.com/concurrency/7)
 Golang の公式チュートリアルの一部を翻訳しました。
 
 ### [Logpose](https://logpose-13labo.firebaseapp.com/)
 札幌就活情報共有サイトです。
 トップページの一部と検索ページを担当しました。
+
+### [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/)
+TBD; コンテスト作成のドラッグアンドドロップリストについて書く
