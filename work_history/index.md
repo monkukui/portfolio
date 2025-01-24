@@ -7,45 +7,45 @@ title: work history
 
 ## 株式会社メルカリ (Help Center Team) (2023年6月 ～ 現在)
 ### Backend Engineer
-- **担当業務**:
+- **主な担当業務**:
   - GKE migration
-  - PHP major version upgrade
-  - Audit log 開発
-  - CS Tool 開発環境構築 (Skaffold 導入)
 
-- **実績**:
-  - 新規システムの立ち上げにおいて、3ヶ月での納期を守り、顧客満足度95%を達成。
-  - サーバー負荷の軽減に成功し、システムのパフォーマンスを30%向上。
+- **主な実績**:
+  - 社内インフラの標準に合わせるため、GCE モノリスで動作していた CS Tool を GKE 環境に以降するプロジェクトで貢献しました。
+    - [mercari engineering blog](https://engineering.mercari.com/blog/entry/migrate-for-gke/)
+  - CS Tool の複雑な技術スタックに合わせたより良い開発体験の整備を行いました。
+  - Admin Tool 郡からのすべてのリクエストに対する監査ログの仕組みを Admin GraphQL 上に開発しました。
 
 ---
 
 ## 株式会社メルカリ (CS Foundation Team) (2022年4月 ～ 2023年5月)
-### Backend Engineer
-- **担当業務**:
+### Backend Engineer (Tech Lead)
+- **主な担当業務**:
   - Help Center 検索改善
   - Help Center Platformming
-  - Help Center 多言語化
 
 - **実績**:
-  - Techlead を努めた
+  - [Help Center](https://help.jp.mercari.com/) の検索精度を向上させ、主要な指標 (0-hit rate, CTR) を大幅に向上させました。
+  - カンパニー内の新規事業において、共通のヘルプセンターのシステム (アプリケーションコード、DB、インフラなど) を利用できるようにしました。
+  - 業の海外展開を見据えて、ヘルプセンターの多言語化の設計と開発をリードしました。
 
 ---
 
 ## 株式会社ギブリー (2021年3月 ～ 現在)
 ### Contents Creator Manager
 - **担当業務**:
-  - 様々なスタイルの採用問題の作成
+  - アルゴリズムや開発系など、様々なスタイルの採用問題の作成
   - オリジナル問題作成のための顧客とのコンサルティング業務
   - 新規問題作成のロードマップ計画
-  - コンテンツ作成プラットフォームの開発
+  - コンテンツ作成のためのプラットフォームの開発
 
 ---
 
-## 日立北大ラボ (アルバイト)
+## 日立北大ラボ (アルバイト) (2019年6月 〜 2022年3月)
 ### Algorithm Engineer
 - **担当業務**:
-  - TBD
-
+  - 離散最適化問題に関する既存研究の調査と実装
+  - 数理最適化をテーマとした大学合同のコンテストの開発
 
 ---
 
