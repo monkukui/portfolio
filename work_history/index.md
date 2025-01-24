@@ -64,4 +64,4 @@ title: work history
   - 修士（情報理工学）
 
 
-学生時代のインターンシップ歴は[こちら](internship/)
+学生時代のインターンシップ歴は[こちら](../internship/)
