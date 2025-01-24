@@ -27,7 +27,7 @@ title: work history
 - **主な実績**:
   - 社内インフラの標準に合わせるため、GCE で動作していた CS Tool を GKE 環境に移行するプロジェクトで貢献しました。
   - GKE 移行を進める中でシステムパフォーマンスの問題を発見し、アーキテクチャの刷新と開発をリードしました。結果として、10x 倍の高速化に貢献しました。
-    - [ref; mercari engineering blog](https://engineering.mercari.com/blog/entry/migrate-for-gke/)
+    - [mercari engineering blog](https://engineering.mercari.com/blog/entry/migrate-for-gke/)
   - CS Tool の複雑な技術スタックに合わせたより良い開発体験の整備を行いました。
   - Admin Tool 郡からのすべてのリクエストに対する監査ログの仕組みを Admin GraphQL 上に開発しました。
 
