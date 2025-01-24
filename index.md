@@ -12,15 +12,13 @@ title: top
 - GitHub：[monkukui](https://github.com/monkukui/)
 - Twitter：[monkukui](https://twitter.com/monkukui/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
-
-以下のリンクから、より詳しい情報をご覧いただけます。
+- Skill：Go, PHP, C++, GraphQL, TypeScript, React, Kubernetes, GCP, MySQL, ElasticSearch
 
 ## Education
-**北海道大学 工学部 情報エレクトロニクス学科**（2016年4月 ～ 2020年3月）
-- 学士（情報理工学）
-
-**北海道大学 工学部 情報科学院 情報理工学研究科**（2020年4月 ～ 2022年3月）
-- 修士（情報理工学）
+- Bachelor in Computer Science and Information Technology, Hokkaido
+University, Sapporo (April 2016 — March 2020)
+- Master In Graduate School of Information Science and Technology,
+Hokkaido University, Sapporo (April 2020 — March 2022)
 
 ## Work History
 こちらの[リンク](work_history/)から、職歴をご覧いただけます。
