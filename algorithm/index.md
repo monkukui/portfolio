@@ -38,7 +38,7 @@ title: algorithm
 # Conpetitive Programming
 
 競技プログラミングは、大学 2 年の春から現在（2025/01/23 更新）まで続けています。
-学生時代は、[北海道大学競技プログラミングサークル HCPC](https://hcpc-hokudai.github.io/)の部長を務めておりました。（詳しくは、[Organization](organization/) をご覧ください）。
+学生時代は、[北海道大学競技プログラミングサークル HCPC](https://hcpc-hokudai.github.io/)の部長を務めており、ICPC (International Collegiate Programming Contest) を始めとした様々な大会に出場しました。
 
 ## Account
 - AtCoder：黄（最高レーティング：2035）（[monkukui](https://atcoder.jp/users/monkukui)）
@@ -69,3 +69,13 @@ title: algorithm
     - 順位：150/185
 - [AtCoder Beginer Contest 157](https://atcoder.jp/contests/abc157)
     - 順位：13/6543
+
+## Contest Organize
+- [HUPC]()
+- [HUPC]()
+- [HUPC]()
+- [社会創造数学コンテスト]()
+- [社会創造数学コンテスト]()
+- [ICPC2022]()
+  - JAG スタッフ
+- [mercon2024]()
