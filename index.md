@@ -13,18 +13,20 @@ title: top
 - Twitter：[monkukui](https://twitter.com/monkukui/)
 - はてなブログ：[monkukui](https://monkukui.hatenablog.com/)
 
-## More
-
 以下のリンクから、より詳しい情報をご覧いただけます。
 
-## [Work History](work_history/)
-- 職務経歴
+## Education
+- **北海道大学 工学部 情報エレクトロニクス学科**（2016年4月 ～ 2020年3月）
+  - 学士（情報理工学）
+- **北海道大学 工学部 情報科学院 情報理工学研究科**（2020年4月 ～ 2022年3月）
+  - 修士（情報理工学）
 
-## [Algorithm](algorithm/)
-- Resarch
-- Conpetitive Programming
+## Work History
+こちらの[リンク](work_histor/)から、職歴をご覧いただけます。
 
-## [Development](web_development/)
-- Owner
-- Collaborator
+## Algorithm
+こちらの[リンク](algorithm/) から、研究実績と競技プログラミングに関する活動実績がご覧いただけます。
+
+## Development
+こちらの[リンク]((web_development/)から、個人開発物をご覧いただけます。
 
