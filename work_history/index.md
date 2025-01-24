@@ -5,8 +5,8 @@ title: work history
 
 # 職務経歴
 
-## 株式会社メルカリ (Help Center Team) (2023年6月 ～ 現在)
-### Backend Engineer (Tech Lead)
+## 株式会社メルカリ (Help Center Team) (2022年4月 ～ 現在)
+### Backend Engineer; Help Center Team (Tech Lead)
 - **主な担当業務**:
   - Help Center 検索改善
   - Help Center Platformming
@@ -17,10 +17,7 @@ title: work history
   - 事業の海外展開を見据えて、ヘルプセンターの多言語化の設計と開発をリードしました。
   - Tech Lead としてチームをリードしました。また、複数のインターン生のメンター業務を経験しました。
 
----
-
-## 株式会社メルカリ (CS Foundation Team) (2022年4月 ～ 2023年5月)
-### Backend Engineer
+### Backend Engineer; CS Foundation Team
 - **主な担当業務**:
   - GKE migration
 
