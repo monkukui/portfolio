@@ -18,8 +18,13 @@ title: top
 以下のリンクから、より詳しい情報をご覧いただけます。
 
 ## [Work History](work_history/)
+- 職務経歴
 
 ## [Algorithm](algorithm/)
+- Resarch
+- Conpetitive Programming
 
 ## [Development](web_development/)
+- Owner
+- Collaborator
 
