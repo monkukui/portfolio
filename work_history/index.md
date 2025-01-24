@@ -11,7 +11,7 @@ title: work history
   - Help Center 検索改善
   - Help Center Platformming
 
-- **実績**:
+- **主な実績**:
   - [Help Center](https://help.jp.mercari.com/) の検索精度を向上させ、主要な指標 (0-hit rate, CTR) を大幅に向上させました。
   - カンパニー内の新規事業において、共通のヘルプセンターのシステム (アプリケーションコード、DB、インフラなど) を利用できるようにしました。
   - 事業の海外展開を見据えて、ヘルプセンターの多言語化の設計と開発をリードしました。
