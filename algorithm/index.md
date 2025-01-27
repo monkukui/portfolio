@@ -71,11 +71,15 @@ title: algorithm
     - 順位：13/6543
 
 ## Contest Organize
-- [HUPC]()
-- [HUPC]()
-- [HUPC]()
-- [社会創造数学コンテスト]()
-- [社会創造数学コンテスト]()
-- [ICPC2022]()
-  - JAG スタッフ
-- [mercon2024]()
+過去に主催した競技プログラミングのコンテストの一覧です。
+
+- [HUPC2021](https://connpass.com/event/234290/)
+- [HUPC2020](https://connpass.com/event/179414/)
+  - 北海道大学として初開催のコンテストで、イベントの企画運営と作問作業をサークル長としてリードしました。
+- [社会創造数学コンテスト2020](https://atcoder.jp/contests/hokudai-hitachi2020)
+- [社会創造数学コンテスト2021](https://atcoder.jp/contests/hokudai-hitachi2021)
+- [ICPC2022](https://icpc.iisf.or.jp/2022-yokohama/)
+  - JAG スタッフとして、コンテスト運営に携わりました。
+- [mercon2024](https://www.youtube.com/watch?v=hUqkqx9ppI8)
+  - 株式会社メルカリとして史上初のコンテストで、イベントの企画運営と作問作業をすべてリードしました。
+  - 公式の Youtube チャンネルに取り上げられました。
